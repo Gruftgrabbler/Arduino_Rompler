@@ -1,0 +1,9 @@
+# Directories
+.idea
+.pio
+cmake-build-*/
+cmake-build-debug/
+venv/
+
+# File Types
+*.xml
